@@ -1,4 +1,4 @@
-package ch02.sec1;
+package ch02.sec01;
 
 public class VariableInitExample {
     public static void main (String[ ]args)
