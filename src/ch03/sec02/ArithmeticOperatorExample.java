@@ -1,4 +1,4 @@
-package ch03.sec01;
+package ch03.sec02;
 
 public class ArithmeticOperatorExample {
     public static void main(String[] args) {
@@ -11,6 +11,9 @@ public class ArithmeticOperatorExample {
         System.out.println("result2: "+ (v1+v2-v4)); // result2 4
 
         System.out.println("result3: " + ((double)v1/v2)); // result3
+        int result4= v1%v2;
+        System.out.println("result4: " + result4); //result4 :2
+
 
     }
 }
