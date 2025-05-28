@@ -14,6 +14,5 @@ public class Mission02 {
         else{
             System.out.printf("%s", (inNum>=90)? "A":  (inNum==80)? "B":  (inNum==70)? "C": "D" );
         }
-
     }
 }
